@@ -80,7 +80,7 @@ This repository provides the official PyTorch implementation of the paper [**Fou
 by [Zhao Wang](https://kyfafyd.wang)\*, Chang Liu\*, [Shaoting Zhang](http://www.qingyuan.sjtu.edu.cn/a/Shaoting-Zhang.html)†, and [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou)†.
 
 <div align="center">
-    <a href="https://"><img width="800px" height="auto" src="assets/framework.png"></a>
+    <a href="https://"><img width="800px" height="auto" src="framework.png"></a>
 </div>
 
 ## Key Features
@@ -114,7 +114,7 @@ by [Zhao Wang](https://kyfafyd.wang)\*, Chang Liu\*, [Shaoting Zhang](http://www
 ## Datasets
 
 <div align="center">
-    <a href="https://"><img width="800px" height="auto" src="assets/dataset.png"></a>
+    <a href="https://"><img width="800px" height="auto" src="dataset.png"></a>
 </div>
 
 We utilize 6 public and 1 private datasets for pre-training and 3 datasets as the downstream tasks.
